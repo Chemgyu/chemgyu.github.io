@@ -27,10 +27,10 @@ description: >-                        # used by seo meta and the atom feed
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: https://chemgyu.github.io
 
-author: your_full_name                  # change to your full name
+author: MinGyu Choi                  # change to your full name
 
 github:
-  username: github_username             # change to your github username
+  username: Chemgyu             # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
