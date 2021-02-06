@@ -87,3 +87,16 @@ order: 4
       Feb.2018
   > - Scientific Program Adviser of Exchange Activities with KPF(Honors Society of Korea Advanced Institute of Science and Technology) and STEM(Honors Society of Seoul National University, Dep. of Engineering)<br>
       2017-2018
+      
+---
+
+## Skills
+
+- [x] Software Languages
+  > C, JAVA, Python, Assembly Language, LaTex, and MarkDown
+- [x] Biochemical Techniques
+  > Clonging, Protein Expression and Purification
+- [x] Organic Synthesis
+  > Fundamental Textbook Organic Synthesis, Pd-Coupling RXNs
+- [x] Analytical Equipments & Techniques
+  > HPLC, MALDI-TOF, NMR(including HSQC, HMBC), Fluorescence(for both Enzyme RXNs and Small Molecules), Small molecule Crystalization and X-ray Crystallography
