@@ -72,12 +72,18 @@ order: 4
 <h2>Extracurricular Activities</h2>
 
 - [x] Militery Service
-  > 2019-2021 // Republic of Korea Air Force, 35th Flight Group
+  > 2019-2021
+  > Republic of Korea Air Force, 35th Flight Group
 - [ ] Teaching Assistant
-  > 2017-2019 // General Chemistry, Seoul National University
+  > 2017-2019
+  > General Chemistry, Seoul National University
 - [ ] Honors Society
-  > 2017-2018 // GLEAP, Honors Society of Department of Natural Science, Seoul National University
+  > 2017-2018
+  > GLEAP, Honors Society of Department of Natural Science, Seoul National University
 - [ ] Academic Exchange Program
-  > Jan.2019 // Global Exchange Program wih National University of Singapore, SPS.<br>
-  > Feb.2018 // Global Exchange Program with Tokyo Institute of Technology, SAGE
-  > Mar.2017, Feb.2018 // Scientific Program Adviser of Exchange Activities with KPF(Honors Society of Korea Advanced Institute of Science and Technology) and STEM(Honors Society of Seoul National University, Dep. of Engineering)
+  > - Global Exchange Program wih National University of Singapore, SPS.
+      Jan.2019 
+  > - Global Exchange Program with Tokyo Institute of Technology, SAGE
+      Feb.2018
+  > - Scientific Program Adviser of Exchange Activities with KPF(Honors Society of Korea Advanced Institute of Science and Technology) and STEM(Honors Society of Seoul National University, Dep. of Engineering)
+      2017-2018
