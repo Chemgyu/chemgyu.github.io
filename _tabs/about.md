@@ -21,19 +21,19 @@ order: 4
 # Research Experiences
 ---
 - [x] **Laboratory of Protometabolism and Prebiotic Chemistry**, University College London
-  - :spiral_calendar: Jul.2019 - Aug.2019 :round_pushpin: London, UK
-  - Adviser : Dr. Matthew Powner
-  - SNU-UCL Undergraduate Research Exchange Program
-  - Ring-Opening of Thiolactones and Synthesis of Homocystamine in Probiotic Conditions
+  >- :spiral_calendar: Jul.2019 - Aug.2019 :round_pushpin: London, UK
+  >- Adviser : Dr. Matthew Powner
+  >- SNU-UCL Undergraduate Research Exchange Program
+  >- Ring-Opening of Thiolactones and Synthesis of Homocystamine in Probiotic Conditions
 - [x] **Stimuli-Responsive Chemical Systems Lab**, Seoul National University
-  - :spiral_calendar: Feb.2019-Jul.2019 :round_pushpin: Seoul, Korea
-  - Adviser : Dr. Dongwhan Lee
-  - Undergraduate Internship Program, Department of Chemistry
-  - Synthesis of Perpendicular Directed Molecular Building Blocks
+  >- :spiral_calendar: Feb.2019-Jul.2019 :round_pushpin: Seoul, Korea
+  >- Adviser : Dr. Dongwhan Lee
+  >- Undergraduate Internship Program, Department of Chemistry
+  >- Synthesis of Perpendicular Directed Molecular Building Blocks
 - [x] **Laboratory of Proteolytic Systems**, Seoul National University
-  - :spiral_calendar: Sep.2017-Jun.2018 :round_pushpin: Seoul, Korea
-  - Undergraduate Internship Program, Department of Chemistry
-  - Characterization and Engineering of Novel Omega-Ester Contatining Peptides
+  >- :spiral_calendar: Sep.2017-Jun.2018 :round_pushpin: Seoul, Korea
+  >- Undergraduate Internship Program, Department of Chemistry
+  >- Characterization and Engineering of Novel Omega-Ester Contatining Peptides
 <br>
 
 # Publication
