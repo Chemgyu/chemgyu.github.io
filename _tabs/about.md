@@ -20,7 +20,7 @@ order: 4
 ## Research Experiences
 ---
 - [x] **Laboratory of Protometabolism and Prebiotic Chemistry**, University College London
-  - Jul.2019 - Aug.2019 | London, UK
+  - :spiral_calendar: Jul.2019 - Aug.2019 | :round_pushpin: London, UK
   - Adviser : Dr. Matthew Powner
   - SNU-UCL Undergraduate Research Exchange Program
   - Ring-Opening of Thiolactones and Synthesis of Homocystamine in Probiotic Conditions
