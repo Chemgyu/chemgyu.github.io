@@ -14,7 +14,7 @@ order: 4
 
 ---
 
-<h2>Education</h2><br>
+## Education<br>
 
 - [x] B.S. Student Majoring in Chemistry, Minoring in Computer Science & Engineering<br>
 > **Seoul National University**<br>
@@ -22,7 +22,7 @@ order: 4
 
 ---
 
-<h2>Research Experiences</h2><br>
+## Research Experiences<br>
 
  - [x] **Bio & Health Informatics Lab**, *Seoul National University* <br>
  Ongoing!
@@ -47,7 +47,7 @@ order: 4
 
 ---
 
-<h2>Publication</h2>
+## Publication
 
 - [x] Genome Mining Reveals High Topological Diversity of w-Ester-Containing Peptides and Divergent Evolution of ATP-Grasp Macrocyclases
 > Hyunbin Lee, **Mingyu Choi**, Jung-un Park, Heejin Roh, Seokhee Kim<br>
@@ -55,7 +55,7 @@ order: 4
 
 ---
 
-<h2>Conference Presentations</h2>
+## Conference Presentations
 
 - [x] Developing a Geometrically Perpendicular Organic "Turn" Motif *[Link](https://github.com/Chemgyu/chemgyu.github.io/blob/master/PDFfiles/Developing%20a%20Geometrically%20Perpendicullar%20Organic%20%22Turn%22%20Motif.pdf)*<bf>
   > Jun.2019 // Seoul, Korea<bf>
@@ -69,7 +69,7 @@ order: 4
   
 ---
   
-<h2>Extracurricular Activities</h2>
+## Extracurricular Activities
 
 - [x] Militery Service
   > 2019-2021<br>
