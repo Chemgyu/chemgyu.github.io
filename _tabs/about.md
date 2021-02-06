@@ -20,22 +20,22 @@ order: 4
 
 # Research Experiences
 ---
-- [x] **Bio & Health Informatics Lab**, *Seoul National University
+- [x] **Bio & Health Informatics Lab**, *Seoul National University*
  > Jun.2021 - Present // Seoul, Korea<br>
  > Adviser : Dr. Sun Kim<br>
  > Undergraduate Intership Program, Department of Computer Science & Engineering<br>
  > **Ongoing!**
-- [ ] **Laboratory of Protometabolism and Prebiotic Chemistry**, *University College London
+- [ ] **Laboratory of Protometabolism and Prebiotic Chemistry**, *University College London*
  > Jul.2019 - Aug.2019 // London, UK<br>
  > Adviser : Dr. Matthew Powner<br>
  > SNU-UCL Undergraduate Research Exchange Program<br>
  > **Ring-Opening of Thiolactones and Synthesis of Homocystamine in Probiotic Conditions**
-- [ ] **Stimuli-Responsive Chemical Systems Lab**, *Seoul National University
+- [ ] **Stimuli-Responsive Chemical Systems Lab**, *Seoul National University*
  > Feb.2019 - Jul.2019 // Seoul, Korea<br>
  > Adviser : Dr. Dongwhan Lee<br>
  > Undergraduate Internship Program, Department of Chemistry<br>
  > **Synthesis of Perpendicular Directed Molecular Building Blocks**
-- [ ] **Laboratory of Proteolytic Systems**, *Seoul National University
+- [ ] **Laboratory of Proteolytic Systems**, *Seoul National University*
  > Sep.2017 - Jun.2018 // Seoul, Korea<br>
  > Adviser : Dr. Seokhee Kim<br>
  > Undergraduate Internship Program, Department of Chemistry<br>
