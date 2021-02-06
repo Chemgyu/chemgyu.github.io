@@ -10,13 +10,15 @@ order: 4
 **Chemical Biology; Systems Biology; Computational Biology**
 - Biochemical analysis of diverse biomolecules and their interactions as a system
 - Computational approach decoding biological information onto knotty biological mechanisms
-<br>
+
 ## Education
+---
 - [x] B.S. Student Majoring in Chemistry, Minoring in Computer Science & Engineering
   - Seoul National University
   - Mar.2016 - Present | Seoul, Korea
-<br>
+
 ## Research Experiences
+---
 - [x] **Laboratory of Protometabolism and Prebiotic Chemistry**, University College London
   - Jul.2019 - Aug.2019 | London, UK
   - Adviser : Dr. Matthew Powner
