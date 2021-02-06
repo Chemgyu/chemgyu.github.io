@@ -50,9 +50,26 @@ order: 4
 <br>
 
 # Conference Presentations
+---
 - [x] Developing a Geometrically Perpendicular Organic "Turn" Motif
-- :spiral_calendar: Jun.2019 / :round_pushpin: Seoul, Korea
+  > Jun.2019 // Seoul, Korea<br>
+  > Undergraduate Research Conference, Department of Chemistry
 - [x] Cross-Reactivity of Microviridin-like RiPPs and Generation of Multi-Cyclic Peptides
-- :spiral_calendar: Jun.2018 / :round_pushpin: Seoul, Korea
+  > Jun.2018 // Seoul, Korea<br>
+  > Undergraduate Research Conference, Department of Chemistry
 - [x] Discovery and Characterization of Novel Microviridin-like RiPPs
-- :spiral_calendar: Dec.2017 / :round_pushpin: Seoul, Korea
+  > Dec.2017 // Seoul, Korea<br>
+  > Undergraduate Research Conference, Department of Chemistry
+  
+# Extracurricular Activities
+---
+- [x] Militery Service
+  > 2019-2021 // Republic of Korea Air Force, 35th Flight Group
+- [x] Teaching Assistant
+  > 2017-2019 // General Chemistry, Seoul National University
+- [x] Honors Society
+  > 2017-2018 // GLEAP, Honors Society of Department of Natural Science, Seoul National University
+- [x] Academic Exchange Program
+  > Jan.2019 // Global Exchange Program wih National University of Singapore, SPS.<br>
+  > Feb.2018 // Global Exchange Program with Tokyo Institute of Technology, SAGE
+  > Mar.2017, Feb.2018 // Scientific Program Adviser of Exchange Activities with KPF(Honors Society of Korea Advanced Institute of Science and Technology) and STEM(Honors Society of Seoul National University, Dep. of Engineering)
