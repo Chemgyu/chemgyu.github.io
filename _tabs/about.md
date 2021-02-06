@@ -16,6 +16,7 @@ order: 4
 - [x] B.S. Student Majoring in Chemistry, Minoring in Computer Science & Engineering
   - Seoul National University
   - Mar.2016 - Present | Seoul, Korea
+<br>
 
 # Research Experiences
 ---
@@ -33,4 +34,19 @@ order: 4
   - :spiral_calendar: Sep.2017-Jun.2018 :round_pushpin: Seoul, Korea
   - Undergraduate Internship Program, Department of Chemistry
   - Characterization and Engineering of Novel Omega-Ester Contatining Peptides
-  
+<br>
+
+# Publication
+---
+- [x] Genome Mining Reveals High Topological Diversity of w-Ester-Containing Peptides and Divergent Evolution of ATP-Grasp Macrocyclases
+- Hyunbin Lee, **Mingyu Choi**, Jung-un Park, Heejin Roh, Seokhee Kim
+- J. Am. Chem. Soc., 142, 3013-3023 (2020)
+<br>
+
+# Conference Presentations
+- [x] Developing a Geometrically Perpendicular Organic "Turn" Motif
+- :spiral_calendar: Jun.2019 / :round_pushpin: Seoul, Korea
+- [x] Cross-Reactivity of Microviridin-like RiPPs and Generation of Multi-Cyclic Peptides
+- :spiral_calendar: Jun.2018 / :round_pushpin: Seoul, Korea
+- [x] Discovery and Characterization of Novel Microviridin-like RiPPs
+- :spiral_calendar: Dec.2017 / :round_pushpin: Seoul, Korea
