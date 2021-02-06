@@ -25,7 +25,7 @@ order: 4
 <h2>Research Experiences</h2><br>
 
 - [x] **Bio & Health Informatics Lab**, *Seoul National University* <br>
- - **Ongoing!**
+ - Ongoing!
  > Jun.2021 - Present // Seoul, Korea<br>
  > Adviser : Dr. Sun Kim<br>
  > Undergraduate Intership Program, Department of Computer Science & Engineering <br>
