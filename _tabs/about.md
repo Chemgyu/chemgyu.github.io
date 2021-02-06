@@ -4,7 +4,7 @@ icon: fas fa-info
 order: 4
 ---
 
-> My Resent CV can be seen [here](https://github.com/Chemgyu/chemgyu.github.io/blob/master/PDFfiles/CV_MinGyu_Choi.pdf).<br>
+> My Recent CV can be seen [here](https://github.com/Chemgyu/chemgyu.github.io/blob/master/PDFfiles/CV_MinGyu_Choi.pdf).<br>
 
 ## Interests<br>
 
@@ -24,24 +24,24 @@ order: 4
 
 ## Research Experiences<br>
 
- - [x] **Bio & Health Informatics Lab**, *Seoul National University* <br>
+ - [x] **Bio & Health Informatics Lab**[BHIL](https://bhi-kimlab.github.io/), *Seoul National University* <br>
  Ongoing!
  > Jun.2021 - Present // Seoul, Korea<br>
  > Adviser : Dr. Sun Kim<br>
  > Undergraduate Intership Program, Department of Computer Science & Engineering <br>
- - [ ] **Laboratory of Protometabolism and Prebiotic Chemistry**, *University College London*
+ - [ ] **Laboratory of Protometabolism and Prebiotic Chemistry**[PownerLab](https://pownerlab.com/), *University College London* 
  > Jul.2019 - Aug.2019 // London, UK<br>
- > Adviser : Dr. Matthew Powner<br>
+ > Adviser : Dr. Matthew Powner <br> 
  > SNU-UCL Undergraduate Research Exchange Program<br>
  > **Ring-Opening of Thiolactones and Synthesis of Homocystamine in Probiotic Conditions** 
- - [ ] **Stimuli-Responsive Chemical Systems Lab**, *Seoul National University*
+ - [ ] **Stimuli-Responsive Chemical Systems Lab**[SrCs](https://www.leelab.snu.ac.kr/), *Seoul National University*
  > Feb.2019 - Jul.2019 // Seoul, Korea<br>
- > Adviser : Dr. Dongwhan Lee<br>
+ > Adviser : Dr. Dongwhan Lee <br> 
  > Undergraduate Internship Program, Department of Chemistry<br>
  > **Synthesis of Perpendicular Directed Molecular Building Blocks**
- - [ ] **Laboratory of Proteolytic Systems**, *Seoul National University*
+ - [ ] **Laboratory of Proteolytic Systems**[LOPS](https://shkim115.wixsite.com/skimlab), *Seoul National University*
  > Sep.2017 - Jun.2018 // Seoul, Korea<br>
- > Adviser : Dr. Seokhee Kim<br>
+ > Adviser : Dr. Seokhee Kim <br> 
  > Undergraduate Internship Program, Department of Chemistry<br>
  > **Characterization and Engineering of Novel Omega-Ester Contatining Peptides**
 
@@ -57,13 +57,13 @@ order: 4
 
 ## Conference Presentations
 
-- [x] Developing a Geometrically Perpendicular Organic "Turn" Motif *[Link](https://github.com/Chemgyu/chemgyu.github.io/blob/master/PDFfiles/Developing%20a%20Geometrically%20Perpendicullar%20Organic%20%22Turn%22%20Motif.pdf)*<bf>
+- [x] Developing a Geometrically Perpendicular Organic "Turn" Motif *[pdf](https://github.com/Chemgyu/chemgyu.github.io/blob/master/PDFfiles/Developing%20a%20Geometrically%20Perpendicullar%20Organic%20%22Turn%22%20Motif.pdf)*<bf>
   > Jun.2019 // Seoul, Korea<bf>
   > Undergraduate Research Conference, Department of Chemistry
-- [ ] Cross-Reactivity of Microviridin-like RiPPs and Generation of Multi-Cyclic Peptides *[Link](https://github.com/Chemgyu/chemgyu.github.io/blob/master/PDFfiles/Cross-Reactivity%20of%20Mv-like%20RiPPs%20and%20Generation%20of%20Multi-Cyclic%20Peptides.pdf)*<bf>
+- [ ] Cross-Reactivity of Microviridin-like RiPPs and Generation of Multi-Cyclic Peptides *[pdf](https://github.com/Chemgyu/chemgyu.github.io/blob/master/PDFfiles/Cross-Reactivity%20of%20Mv-like%20RiPPs%20and%20Generation%20of%20Multi-Cyclic%20Peptides.pdf)*<bf>
   > Jun.2018 // Seoul, Korea<br>
   > Undergraduate Research Conference, Department of Chemistry
-- [ ] Discovery and Characterization of Novel Microviridin-like RiPPs *[Link](https://github.com/Chemgyu/chemgyu.github.io/blob/master/PDFfiles/Discovery%20and%20Characterization%20of%20Novel%20Mv-like%20RiPPs.pdf)*
+- [ ] Discovery and Characterization of Novel Microviridin-like RiPPs *[pdf](https://github.com/Chemgyu/chemgyu.github.io/blob/master/PDFfiles/Discovery%20and%20Characterization%20of%20Novel%20Mv-like%20RiPPs.pdf)*
   > Dec.2017 // Seoul, Korea<br>
   > Undergraduate Research Conference, Department of Chemistry
   
