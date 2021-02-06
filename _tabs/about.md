@@ -12,7 +12,7 @@ order: 4
 - Biochemical analysis of diverse biomolecules and their interactions as a system
 - Computational approach decoding biological information onto knotty biological mechanisms
 
-<h2>Education</h2>
+<h2>Education</h2><br>
 ---
 - [x] B.S. Student Majoring in Chemistry, Minoring in Computer Science & Engineering<br>
 > **Seoul National University**<br>
