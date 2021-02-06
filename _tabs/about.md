@@ -45,8 +45,8 @@ Research Experiences</h2>
 Publication</h2>
 ---
 - [x] Genome Mining Reveals High Topological Diversity of w-Ester-Containing Peptides and Divergent Evolution of ATP-Grasp Macrocyclases
->- Hyunbin Lee, **Mingyu Choi**, Jung-un Park, Heejin Roh, Seokhee Kim<br>
->- *J. Am. Chem. Soc.*, 142, 3013-3023 (2020)
+> Hyunbin Lee, **Mingyu Choi**, Jung-un Park, Heejin Roh, Seokhee Kim<br>
+> *J. Am. Chem. Soc.*, 142, 3013-3023 (2020)
 <br>
 
 Conference Presentations</h2>
