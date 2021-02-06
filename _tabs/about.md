@@ -58,7 +58,7 @@ Conference Presentations</h2>
 - [ ] Cross-Reactivity of Microviridin-like RiPPs and Generation of Multi-Cyclic Peptides *[Link](https://github.com/Chemgyu/chemgyu.github.io/blob/master/PDFfiles/Cross-Reactivity%20of%20Mv-like%20RiPPs%20and%20Generation%20of%20Multi-Cyclic%20Peptides.pdf)*<bf>
   > Jun.2018 // Seoul, Korea<br>
   > Undergraduate Research Conference, Department of Chemistry
-- [ ] Discovery and Characterization of Novel Microviridin-like RiPPs
+- [ ] Discovery and Characterization of Novel Microviridin-like RiPPs *[Link](https://github.com/Chemgyu/chemgyu.github.io/blob/master/PDFfiles/Discovery%20and%20Characterization%20of%20Novel%20Mv-like%20RiPPs.pdf)*
   > Dec.2017 // Seoul, Korea<br>
   > Undergraduate Research Conference, Department of Chemistry
   
