@@ -9,7 +9,7 @@ mermaid: true
 pin: true
 ---
 
-# Welcome!
+## Welcome!
 This is a personal webpage of MinGyu, Choi.<br>
 Thank you for visiting this website.<br>
 This webpage is keep amending, and a lot of posts will be uploaded soon.<br>
