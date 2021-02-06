@@ -11,14 +11,14 @@ Interests</h2>
 - Biochemical analysis of diverse biomolecules and their interactions as a system
 - Computational approach decoding biological information onto knotty biological mechanisms
 
-# Education
+Education</h2>
 ---
 - [x] B.S. Student Majoring in Chemistry, Minoring in Computer Science & Engineering<br>
 > **Seoul National University**<br>
 > Mar.2016 - Present | Seoul, Korea
 <br>
 
-# Research Experiences
+Research Experiences</h2>
 ---
 - [x] **Bio & Health Informatics Lab**, *Seoul National University*
  > Jun.2021 - Present // Seoul, Korea<br>
@@ -42,14 +42,14 @@ Interests</h2>
  > **Characterization and Engineering of Novel Omega-Ester Contatining Peptides**
 <br>
 
-# Publication
+Publication</h2>
 ---
 - [x] Genome Mining Reveals High Topological Diversity of w-Ester-Containing Peptides and Divergent Evolution of ATP-Grasp Macrocyclases
 >- Hyunbin Lee, **Mingyu Choi**, Jung-un Park, Heejin Roh, Seokhee Kim<br>
 >- *J. Am. Chem. Soc.*, 142, 3013-3023 (2020)
 <br>
 
-# Conference Presentations
+Conference Presentations</h2>
 ---
 - [x] Developing a Geometrically Perpendicular Organic "Turn" Motif
   > Jun.2019 // Seoul, Korea<br>
@@ -61,7 +61,7 @@ Interests</h2>
   > Dec.2017 // Seoul, Korea<br>
   > Undergraduate Research Conference, Department of Chemistry
   
-# Extracurricular Activities
+Extracurricular Activities</h2>
 ---
 - [x] Militery Service
   > 2019-2021 // Republic of Korea Air Force, 35th Flight Group
