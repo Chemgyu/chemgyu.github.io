@@ -7,6 +7,7 @@ order: 4
 > My Resent CV can be seen [here](https://github.com/Chemgyu/chemgyu.github.io/blob/master/PDFfiles/CV_MinGyu_Choi.pdf).<br>
 
 <h2>Interests</h2><br>
+
 **Chemical Biology; Systems Biology; Computational Biology**
 - Biochemical analysis of diverse biomolecules and their interactions as a system
 - Computational approach decoding biological information onto knotty biological mechanisms
