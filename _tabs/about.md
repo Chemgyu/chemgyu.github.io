@@ -52,10 +52,10 @@ Publication</h2>
 
 Conference Presentations</h2>
 ---
-- [x] Developing a Geometrically Perpendicular Organic "Turn" Motif
-  > Jun.2019 // Seoul, Korea<br>
+- [x] Developing a Geometrically Perpendicular Organic "Turn" Motif *[Link](https://github.com/Chemgyu/chemgyu.github.io/blob/master/PDFfiles/Developing%20a%20Geometrically%20Perpendicullar%20Organic%20%22Turn%22%20Motif.pdf)*<bf>
+  > Jun.2019 // Seoul, Korea<bf>
   > Undergraduate Research Conference, Department of Chemistry
-- [ ] Cross-Reactivity of Microviridin-like RiPPs and Generation of Multi-Cyclic Peptides
+- [ ] Cross-Reactivity of Microviridin-like RiPPs and Generation of Multi-Cyclic Peptides *[Link](https://github.com/Chemgyu/chemgyu.github.io/blob/master/PDFfiles/Cross-Reactivity%20of%20Mv-like%20RiPPs%20and%20Generation%20of%20Multi-Cyclic%20Peptides.pdf)*<bf>
   > Jun.2018 // Seoul, Korea<br>
   > Undergraduate Research Conference, Department of Chemistry
 - [ ] Discovery and Characterization of Novel Microviridin-like RiPPs
