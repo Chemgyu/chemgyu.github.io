@@ -4,17 +4,24 @@
   type: github
   icon: 'fab fa-github-alt'
 -
-  type: twitter
-  icon: 'fab fa-twitter'
+  type: instagram
+  icon: 'fab fa-instagram'
+  url: 'https://www.instagram.com/chemgyu/'
 -
   type: email
   icon: 'fas fa-envelope'
   noblank: true            # open link in current tab
 -
-  type: rss
-  icon: 'fas fa-rss'
-  noblank: true
+  type: soundcloud
+  icon: 'fas fa-soundcloud'
+  url: 'https://soundcloud.com/paramy'
+  
+#  type: rss
+#  icon: 'fas fa-rss'
+#  noblank: true
 
+#  type: twitter
+#  icon: 'fab fa-twitter'
 # Uncomment and complete the url below to enable more contact options
 # -
 #   type: mastodon
