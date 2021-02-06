@@ -14,7 +14,7 @@ order: 4
 # Education
 ---
 - [x] B.S. Student Majoring in Chemistry, Minoring in Computer Science & Engineering<br>
-> **Seoul National University**
+> **Seoul National University**<br>
 > Mar.2016 - Present | Seoul, Korea
 <br>
 
