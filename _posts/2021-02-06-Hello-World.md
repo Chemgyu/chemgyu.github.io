@@ -1,7 +1,7 @@
 ---
 title: TEST
 author: MinGyu Choi
-date: 2021-02-06 13:30:00 +0900
+date: 2021-02-05 23:30:00 +0900
 categories: [Blogging, Basic]
 tags: [Welcome]
 math: true
@@ -18,3 +18,11 @@ Because my current interests are including computer programing, especially bioin
 
 This Hello, World post will also be editied continuously, so if you are interested about my life and career, please keep track this post.<br>
 Again, thank you for visiting my webpage, and let's dive into the world!<br>
+
+---
+
+<h2>'About' tab is updated!</h2>
+"About" tab is updated, reflecting all recent information of my career.
+Feel comfortable to visit the "about" tab, and feel free to comment about any considerations.
+
+  
