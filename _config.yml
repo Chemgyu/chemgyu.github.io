@@ -17,7 +17,7 @@ timezone: Asia/Seoul
 # --------------------------
 title: MinGyu Choi                          # the main title
 
-tagline: Chemical Biologist Using Computation Tools   # it will display as the sub-title
+tagline: Chemical Biologist<br> Using Computation Tools   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
