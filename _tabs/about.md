@@ -45,8 +45,8 @@ order: 4
 # Publication
 ---
 - [x] Genome Mining Reveals High Topological Diversity of w-Ester-Containing Peptides and Divergent Evolution of ATP-Grasp Macrocyclases
-- Hyunbin Lee, **Mingyu Choi**, Jung-un Park, Heejin Roh, Seokhee Kim
-- *J. Am. Chem. Soc.*, 142, 3013-3023 (2020)
+>- Hyunbin Lee, **Mingyu Choi**, Jung-un Park, Heejin Roh, Seokhee Kim<br>
+>- *J. Am. Chem. Soc.*, 142, 3013-3023 (2020)
 <br>
 
 # Conference Presentations
@@ -54,10 +54,10 @@ order: 4
 - [x] Developing a Geometrically Perpendicular Organic "Turn" Motif
   > Jun.2019 // Seoul, Korea<br>
   > Undergraduate Research Conference, Department of Chemistry
-- [x] Cross-Reactivity of Microviridin-like RiPPs and Generation of Multi-Cyclic Peptides
+- [ ] Cross-Reactivity of Microviridin-like RiPPs and Generation of Multi-Cyclic Peptides
   > Jun.2018 // Seoul, Korea<br>
   > Undergraduate Research Conference, Department of Chemistry
-- [x] Discovery and Characterization of Novel Microviridin-like RiPPs
+- [ ] Discovery and Characterization of Novel Microviridin-like RiPPs
   > Dec.2017 // Seoul, Korea<br>
   > Undergraduate Research Conference, Department of Chemistry
   
@@ -65,11 +65,11 @@ order: 4
 ---
 - [x] Militery Service
   > 2019-2021 // Republic of Korea Air Force, 35th Flight Group
-- [x] Teaching Assistant
+- [ ] Teaching Assistant
   > 2017-2019 // General Chemistry, Seoul National University
-- [x] Honors Society
+- [ ] Honors Society
   > 2017-2018 // GLEAP, Honors Society of Department of Natural Science, Seoul National University
-- [x] Academic Exchange Program
+- [ ] Academic Exchange Program
   > Jan.2019 // Global Exchange Program wih National University of Singapore, SPS.<br>
   > Feb.2018 // Global Exchange Program with Tokyo Institute of Technology, SAGE
   > Mar.2017, Feb.2018 // Scientific Program Adviser of Exchange Activities with KPF(Honors Society of Korea Advanced Institute of Science and Technology) and STEM(Honors Society of Seoul National University, Dep. of Engineering)
