@@ -4,7 +4,7 @@ icon: fas fa-info
 order: 4
 ---
 
-> My Resent CV can be seen here(https://github.com/Chemgyu/chemgyu.github.io/blob/master/CV_MinGyu_Choi.pdf).<br>
+> My Resent CV can be seen [here](https://github.com/Chemgyu/chemgyu.github.io/blob/master/CV_MinGyu_Choi.pdf).<br>
 
 Interests</h2>
 ---
