@@ -6,6 +6,7 @@ categories: [Blogging, Basic]
 tags: [Welcome]
 math: true
 mermaid: true
+pin: true
 ---
 
 # Welcome!
