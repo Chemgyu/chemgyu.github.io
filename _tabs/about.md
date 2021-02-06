@@ -27,7 +27,7 @@ order: 4
 - [x] **Bio & Health Informatics Lab**, *Seoul National University*
  > Jun.2021 - Present // Seoul, Korea<br>
  > Adviser : Dr. Sun Kim<br>
- > Undergraduate Intership Program, Department of Computer Science & Engineering<br>
+ > Undergraduate Intership Program, Department of Computer Science & Engineering <br>
  : **Ongoing!**
 - [ ] **Laboratory of Protometabolism and Prebiotic Chemistry**, *University College London*
  > Jul.2019 - Aug.2019 // London, UK<br>
