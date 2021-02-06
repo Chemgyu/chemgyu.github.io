@@ -24,7 +24,7 @@ order: 4
 
 ## Research Experiences<br>
 
- - [x] **Bio & Health Informatics Lab** ([BHIL](https://bhi-kimlab.github.io/)), *Seoul National University* <br>
+ - [x] **Bio & Health Informatics Lab** ([BHILab](https://bhi-kimlab.github.io/)), *Seoul National University* <br>
  Ongoing!
  > Jun.2021 - Present // Seoul, Korea<br>
  > Adviser : Dr. Sun Kim<br>
