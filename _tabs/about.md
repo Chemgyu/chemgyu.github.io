@@ -21,7 +21,8 @@ order: 4
 > Mar.2016 - Present | Seoul, Korea
 <br>
 
-Research Experiences</h2>
+<h2>Research Experiences</h2><br>
+
 ---
 - [x] **Bio & Health Informatics Lab**, *Seoul National University*
  > Jun.2021 - Present // Seoul, Korea<br>
@@ -45,14 +46,15 @@ Research Experiences</h2>
  > **Characterization and Engineering of Novel Omega-Ester Contatining Peptides**
 <br>
 
-Publication</h2>
+<h2>Publication</h2>
+
 ---
 - [x] Genome Mining Reveals High Topological Diversity of w-Ester-Containing Peptides and Divergent Evolution of ATP-Grasp Macrocyclases
 > Hyunbin Lee, **Mingyu Choi**, Jung-un Park, Heejin Roh, Seokhee Kim<br>
 > *J. Am. Chem. Soc.*, 142, 3013-3023 (2020) *[Link](https://pubs.acs.org/doi/abs/10.1021/jacs.9b12076)*
 <br>
 
-Conference Presentations</h2>
+<h2>Conference Presentations</h2>
 ---
 - [x] Developing a Geometrically Perpendicular Organic "Turn" Motif *[Link](https://github.com/Chemgyu/chemgyu.github.io/blob/master/PDFfiles/Developing%20a%20Geometrically%20Perpendicullar%20Organic%20%22Turn%22%20Motif.pdf)*<bf>
   > Jun.2019 // Seoul, Korea<bf>
@@ -64,7 +66,7 @@ Conference Presentations</h2>
   > Dec.2017 // Seoul, Korea<br>
   > Undergraduate Research Conference, Department of Chemistry
   
-Extracurricular Activities</h2>
+<h2>Extracurricular Activities</h2>
 ---
 - [x] Militery Service
   > 2019-2021 // Republic of Korea Air Force, 35th Flight Group
