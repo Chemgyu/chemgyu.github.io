@@ -12,17 +12,18 @@ order: 4
 - Biochemical analysis of diverse biomolecules and their interactions as a system
 - Computational approach decoding biological information onto knotty biological mechanisms
 
+---
+
 <h2>Education</h2><br>
 
----
 - [x] B.S. Student Majoring in Chemistry, Minoring in Computer Science & Engineering<br>
 > **Seoul National University**<br>
 > Mar.2016 - Present | Seoul, Korea
-<br>
+
+---
 
 <h2>Research Experiences</h2><br>
 
----
 - [x] **Bio & Health Informatics Lab**, *Seoul National University*
  > Jun.2021 - Present // Seoul, Korea<br>
  > Adviser : Dr. Sun Kim<br>
@@ -43,18 +44,19 @@ order: 4
  > Adviser : Dr. Seokhee Kim<br>
  > Undergraduate Internship Program, Department of Chemistry<br>
  > **Characterization and Engineering of Novel Omega-Ester Contatining Peptides**
-<br>
+
+---
 
 <h2>Publication</h2>
 
----
 - [x] Genome Mining Reveals High Topological Diversity of w-Ester-Containing Peptides and Divergent Evolution of ATP-Grasp Macrocyclases
 > Hyunbin Lee, **Mingyu Choi**, Jung-un Park, Heejin Roh, Seokhee Kim<br>
 > *J. Am. Chem. Soc.*, 142, 3013-3023 (2020) *[Link](https://pubs.acs.org/doi/abs/10.1021/jacs.9b12076)*
-<br>
+
+---
 
 <h2>Conference Presentations</h2>
----
+
 - [x] Developing a Geometrically Perpendicular Organic "Turn" Motif *[Link](https://github.com/Chemgyu/chemgyu.github.io/blob/master/PDFfiles/Developing%20a%20Geometrically%20Perpendicullar%20Organic%20%22Turn%22%20Motif.pdf)*<bf>
   > Jun.2019 // Seoul, Korea<bf>
   > Undergraduate Research Conference, Department of Chemistry
@@ -65,8 +67,10 @@ order: 4
   > Dec.2017 // Seoul, Korea<br>
   > Undergraduate Research Conference, Department of Chemistry
   
-<h2>Extracurricular Activities</h2>
 ---
+  
+<h2>Extracurricular Activities</h2>
+
 - [x] Militery Service
   > 2019-2021 // Republic of Korea Air Force, 35th Flight Group
 - [ ] Teaching Assistant
