@@ -22,16 +22,20 @@ Again, thank you for visiting my webpage, and let's dive into the world!<br>
 
 ---
 
-## "About" tab is updated!
+## "Connect" icons are updated!
+revised : 21-02-06 14:00<br>
+"Connect" icons placed at left bottom conner are updated, reflecting all recent accounts of me.<br>
+Some accouts have no useful information, but they will also be filled soon!<br>
+As usual, feel free to comment any recommendations.<br>
+
+---
+
+## "About" tab is updated!<br>
 revised : 21-02-06 10:00<br>
 "About" tab is updated, reflecting all recent information of my career.<br>
 Feel comfortable to visit the "about" tab, and feel free to comment about any considerations.
 
 ---
-## "Connect" icons are updated!
-revised : 21-02-06 14:00<br>
-"Connect" icons placed at left bottom conner are updated, reflecting all recent accounts of me.<br>
-Some accouts have no useful information, but they will also be filled soon!<br>
-As usual, feel free to comment any recommendations.
+
 
   
