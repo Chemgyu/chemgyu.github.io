@@ -21,4 +21,4 @@ By implementing this, Git provides individual programmers a safe tracking system
 
 This post is still being edited.
 
-useful website : https://learngitbranching.js.org/?locale=ko
+useful website : [learnbranching](https://learngitbranching.js.org/?locale=ko)
