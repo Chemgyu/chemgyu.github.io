@@ -3,7 +3,7 @@ title: Hello, World!
 author: MinGyu Choi
 date: 2021-02-05 23:30:00 +0900
 categories: [Blogging, Basic]
-tags: [Welcome]
+tags: [welcome]
 math: true
 mermaid: true
 pin: true
