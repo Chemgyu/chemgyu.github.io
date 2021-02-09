@@ -19,5 +19,6 @@ By exploiting Git's operations, programmers can efficiently saving their codes s
 Moreover, Git system is quite efficient. Which means, Git is not saving the whole source code of programs, but storeing only the differeces(a.k.a. delta).
 By implementing this, Git provides individual programmers a safe tracking system, guaranteeing programmers to come back any version of their source code.
 
+This post is still being edited.
 
 useful website : https://learngitbranching.js.org/?locale=ko
